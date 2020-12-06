@@ -26,6 +26,7 @@ module Crypto.Secp256k1
 
     -- * Public Keys
     , PubKey
+    , getPubKey
     , importPubKey
     , exportPubKey
 
